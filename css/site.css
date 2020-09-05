@@ -1,0 +1,19 @@
+body {
+  background-color: white;
+}
+
+h1, h2, h3{
+  font-family: 'Grandstander', cursive; /* Font CSS Code Credit to: fonts.google.com */
+}
+
+ul, li {
+  list-style-type: circle; /* Bullet Point Circle Credit: W3 Schools CSS Lists, List-Style-Type*/
+}
+
+p, li {
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  border: 5px solid #8FDCD5; /* Hexadecimal value credit: HTMLcolorcodes.com */
+}
