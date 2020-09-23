@@ -1,0 +1,32 @@
+body{
+  font-family: 'Baloo Tammudu 2', cursive;
+  background-color: #20B2AA;
+  padding: 20px;
+  font-size:100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+div#content {
+    padding: 50px;
+    background-color: White;
+    border: solid 1px #333333;
+}
+
+.image{
+  float: right;
+  margin: 20px;
+  width: 350px;
+  /*padding: 20px;*/
+  border-style: solid;
+  border-color: LightSeaGreen;
+  outline-width: 5px;
+}
+
+.title {
+  font-family: 'Oswald', sans-serif; /*Font Style credit to: Google Fonts*/
+  margin-left: 20px;
+  text-decoration: underline;
+}
