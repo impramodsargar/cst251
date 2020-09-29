@@ -1,0 +1,43 @@
+div#content {
+  /* Modify the margins and padding of your content div */
+  padding: 20px;
+  margin: 50px;
+  /* Change the color of your content div */
+  background-color: FloralWhite;
+  /* Add a border */
+  border: ridge 5px #333333;
+  padding-bottom: 150px;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  /* Change the color of your body*/
+  background-image: linear-gradient(#006400, darkseagreen);
+  /* background-color: #006400; */
+  padding: 20px;
+  font-size: 18px;
+}
+
+.image img {
+  float: right;
+  margin: 20px;
+  width: 350px;
+  border: solid 3px #53c653;
+}
+
+.image img:hover {
+  transform: scale(1.5);
+}
+
+.title {
+  font-family: 'Josefin Slab', serif;
+  font-size: 30px;
+  margin-left:0px;
+}
+
+.main-header {
+  font-family: 'Josefin Slab', serif;
+  font-size: 40px;
+  text-align: center;
+  text-decoration-line: underline;
+}

@@ -1,0 +1,33 @@
+h1 {
+  font-family: 'Fredoka One', cursive;
+  font-size:30px;
+  color: lightseagreen;
+  text-decoration: underline;
+  text-decoration-color: lightseagreen;
+}
+
+img {
+  border: solid 3px black;
+}
+body {
+  margin: 20px;
+  padding: 20px;
+  background-color: mintcream;
+}
+
+h2 {
+  font-family: 'Fredoka One', cursive;
+  font-size:20px;
+  text-decoration: underline;
+  color: lightseagreen;
+}
+
+h3{
+  font-family: 'Old Standard TT', serif;
+}
+
+p {
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px;
+  color: black;
+}

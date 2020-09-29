@@ -1,17 +1,41 @@
-body {
-  background-color: white;
+div#content{
+  background-color: mintcream;
+  padding: 20px;
+  margin: 50px;
+  border: dotted 3px lightseagreen;
 }
 
-h1, h2, h3{
+body {
+  background-image: linear-gradient(#8FDCD5,floralwhite);
+}
+
+.title{
   font-family: 'Grandstander', cursive; /* Font CSS Code Credit to: fonts.google.com */
+  color: lightseagreen;
+  /* text-decoration:underline; */
+  text-decoration-color: lightseagreen;
+}
+
+.main-header{
+  text-align: center;
+  font-family: 'Grandstander', cursive; /* Font CSS Code Credit to: fonts.google.com */
+  color: teal;
+  /* text-decoration:underline; */
+  text-decoration-color: teal;
+}
+
+.image {
+  text-align: center;
 }
 
 ul, li {
   list-style-type: circle; /* Bullet Point Circle Credit: W3 Schools CSS Lists, List-Style-Type*/
+  font-family: 'Poppins', sans-serif;
 }
 
-p, li {
+p{
   font-family: 'Poppins', sans-serif;
+  padding: 20px 50px 20px 50px;
 }
 
 img {
