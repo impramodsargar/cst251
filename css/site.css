@@ -19,9 +19,10 @@ body {
 .main-header{
   text-align: center;
   font-family: 'Grandstander', cursive; /* Font CSS Code Credit to: fonts.google.com */
-  color: teal;
-  /* text-decoration:underline; */
-  text-decoration-color: teal;
+  color: #4fc4a1;
+  text-decoration:underline;
+  text-decoration-color: #4fc4a1;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 .image {
