@@ -1,3 +1,6 @@
+<h1>cst541</h1>
+
+
 # Lab Template
 File tempate for basic HTML, CSS, and JavaScript classes
 
